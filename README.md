@@ -235,7 +235,7 @@ Boolean flags allow plans to differ:
 
 ##  Submission Details
 
-* ER Diagram File: online fitness coaching ER diagram.pdf
+* ER Diagram File:
 * Format: Horizontal layout
 * Includes:
 
