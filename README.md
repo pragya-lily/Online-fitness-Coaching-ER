@@ -235,7 +235,8 @@ Boolean flags allow plans to differ:
 
 ##  Submission Details
 
-* ER Diagram File: https://github.com/pragya-lily/Online-fitness-Coaching-ER/blob/main/online%20fitness%20coaching%20ER%20diagram.pdf
+* ER Diagram File: <img width="2000" height="1500" alt="image" src="https://github.com/user-attachments/assets/2602b648-dc01-4410-b43c-d0434a8db5e5" />
+
 * Format: Horizontal layout
 * Includes:
 
