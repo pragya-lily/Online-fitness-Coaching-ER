@@ -221,7 +221,7 @@ Boolean flags allow plans to differ:
 
 ---
 
-## 🧩 Scalability Considerations
+##  Scalability Considerations
 
 * Supports multiple trainers and clients
 * Allows clients to purchase multiple plans over time
@@ -235,7 +235,7 @@ Boolean flags allow plans to differ:
 
 ##  Submission Details
 
-* ER Diagram File: `online fitness coaching ER diagram.pdf`
+* ER Diagram File: 
 * Format: Horizontal layout
 * Includes:
 
@@ -245,7 +245,7 @@ Boolean flags allow plans to differ:
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 
 This ER diagram provides a **practical and scalable database design** for an online fitness coaching platform, balancing flexibility with real-world usability.
 
